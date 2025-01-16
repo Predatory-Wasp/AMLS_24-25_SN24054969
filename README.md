@@ -1,1 +1,2 @@
 # AMLS_24-25_SN24054969
+This is an assignment project from the UCL AMLS course. The A folder contains all the code for task A, while the B folder contains all the code for task B. The packages that need to be installed are basically mentioned in the codes of A and B, which are very common network building tools in machine learning, including torch, Numpy, tqdm, matplotlib, and so on.
